@@ -29,6 +29,7 @@
     "clsx": "catalog:",
     "echarts": "^6.0.0",
     "match-sorter": "^8.2.0",
+    "motion": "^12.34.1",
     "react-markdown": "10.1.0",
     "remark-gfm": "4.0.1",
     "tailwind-merge": "catalog:",
